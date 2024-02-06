@@ -19,8 +19,8 @@ function createCommandChoices() {
 
 // Simple test command
 const TEST_COMMAND = {
-  name: 'test',
-  description: 'Basic command',
+  name: 'start',
+  description: 'Start looking',
   type: 1,
 };
 
